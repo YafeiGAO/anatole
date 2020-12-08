@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "Website of Yafei"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -14,10 +14,10 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "I'm Jane Doe"
-author = "Jane Doe"
-description = "Call me Jane"
-profilePicture = "images/profile.jpg"
+title = "Hi, I'm Yafei Gao"
+author = "Yafei Gao"
+description = "Call me Yafei"
+profilePicture = "images/IMG_0208.jpeg"
 keywords = ""
 favicon = "favicons/"
 customCss = []
@@ -38,22 +38,22 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/yafei-gao-0900a0131/"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/YafeiGAO"
 
-[[params.socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+#[[params.socialIcons]]
+#icon = "fab fa-instagram"
+#title = "instagram"
+#url = "https://www.instagram.com/"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "mailto:yafei.gao@gmx.de"
 
 ## Menu items
 
@@ -72,7 +72,7 @@ url = "mailto:mail@alexbilz.com"
   url = "/post/"
 
   [[menu.main]]
-  name = "About"
+  name = "About Me"
   weight = 300
   identifier = "about"
   url = "/about/"
